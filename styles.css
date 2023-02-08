@@ -1,0 +1,26 @@
+div{
+    width: 260px;
+    height: 260px;
+    margin-right: 50px;
+}
+.circle {
+    border-radius: 50%;
+    float: left;
+}        
+.rounded {
+    border-radius: 25%;
+    float: left;
+}
+.square {
+    border-radius: 0%;
+    float: left;
+}        
+#circle {
+    background-color: #196F3D;
+}
+#rounded {
+    background-color: #5DADE2;
+}        
+#square {
+    background-color: #58D68D;
+}
